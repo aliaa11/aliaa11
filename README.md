@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Aliaa Hesham</h1>
 <h3 align="center">Full-Stack Web Developer | Open Source Track @ ITI</h3>
 
