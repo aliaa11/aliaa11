@@ -67,13 +67,6 @@
 
 </div>
 
-#### 📌 Activity Overview
-- [x] **Total Stars Earned:** [![Stars](https://img.shields.io/github/stars/aliaa11?color=eacb2f&style=for-the-badge&label=🌟)](https://github.com/aliaa11?tab=repositories)
-- [ ] **Total Commits (2025):** [![Commits](https://img.shields.io/github/commit-activity/y/aliaa11?color=26a641&style=for-the-badge)](https://github.com/aliaa11)
-- [ ] **Total PRs:** [![PRs](https://img.shields.io/github/issues-pr/aliaa11?color=2b78c4&style=for-the-badge)](https://github.com/aliaa11/pulls)
-- [ ] **Total Issues:** [![Issues](https://img.shields.io/github/issues/aliaa11?color=a1548b&style=for-the-badge)](https://github.com/aliaa11/issues)
-- [ ] **Contributed to:** [![Contributions](https://img.shields.io/github/commit-activity/y/aliaa11?color=fe7d37&style=for-the-badge)](https://github.com/aliaa11)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliaa11&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
