@@ -59,11 +59,13 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliaa11&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=aliaa11&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<div align="center" style="margin-bottom: 20px;">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliaa11&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliaa11&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aliaa11&theme=radical&hide_border=true&card_width=450)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliaa11&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 ---
 🧠 Always learning, always building.
