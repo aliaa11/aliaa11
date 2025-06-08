@@ -57,4 +57,18 @@
 
 ---
 
+### 📊 GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+- [x] Total Stars Earned: ![Stars](https://img.shields.io/github/stars/yourusername?style=flat-square)
+- [ ] Total Commits (2025): ![Commits](https://img.shields.io/github/commit-activity/y/yourusername?style=flat-square)
+- [ ] Total PRs: ![PRs](https://img.shields.io/github/issues-pr/yourusername?style=flat-square)
+- [ ] Total Issues: ![Issues](https://img.shields.io/github/issues/yourusername?style=flat-square)
+- [ ] Contributed to (last year): ![Contributions](https://img.shields.io/github/commit-activity/y/yourusername?style=flat-square)
+
+---
+
 🧠 Always learning, always building.
