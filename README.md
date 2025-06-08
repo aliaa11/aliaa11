@@ -59,13 +59,8 @@
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliaa11&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=aliaa11&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliaa11&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
