@@ -55,10 +55,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliaa11&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliaa11&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📊 GitHub Stats
 
@@ -66,7 +62,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliaa11&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 📌 Activity Overview
-- [x] **Total Stars Earned:** [![Stars](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/aliaa11/your-gist-id/raw/stars.json&style=flat-square&color=red)](https://github.com/aliaa11?tab=repositories)
+- [x] **Total Stars Earned:** <span style="color:red">⭐ 0</span> (تحديث يدوي)
 - [ ] **Total Commits (2025):** [![Commits](https://img.shields.io/github/commit-activity/y/aliaa11?color=blue&style=flat-square&label=commits)](https://github.com/aliaa11)
 - [ ] **Total PRs:** [![PRs](https://img.shields.io/github/issues-pr/aliaa11?color=green&style=flat-square&label=PRs)](https://github.com/aliaa11/pulls)
 - [ ] **Total Issues:** [![Issues](https://img.shields.io/github/issues/aliaa11?color=purple&style=flat-square&label=issues)](https://github.com/aliaa11/issues)
