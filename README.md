@@ -55,19 +55,17 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
-
 ### 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aliaa11&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliaa11&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliaa11&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliaa11&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-- [x] Total Stars Earned: ![Stars](https://img.shields.io/github/stars/aliaa11?style=flat-square)
-- [ ] Total Commits (2025): ![Commits](https://img.shields.io/github/commit-activity/y/aliaa11?style=flat-square)
-- [ ] Total PRs: ![PRs](https://img.shields.io/github/issues-pr/aliaa11?style=flat-square)
-- [ ] Total Issues: ![Issues](https://img.shields.io/github/issues/aliaa11?style=flat-square)
-- [ ] Contributed to (last year): ![Contributions](https://img.shields.io/github/commit-activity/y/aliaa11?style=flat-square)
+#### 📌 Activity Overview
+- [x] **Total Stars Earned:** [![Stars](https://img.shields.io/github/stars/aliaa11?color=red&style=flat-square)](https://github.com/aliaa11?tab=repositories)
+- [ ] **Total Commits (2025):** [![Commits](https://img.shields.io/github/commit-activity/y/aliaa11?color=blue&style=flat-square)](https://github.com/aliaa11)
+- [ ] **Total PRs:** [![PRs](https://img.shields.io/github/issues-pr/aliaa11?color=green&style=flat-square)](https://github.com/aliaa11/pulls)
+- [ ] **Total Issues:** [![Issues](https://img.shields.io/github/issues/aliaa11?color=purple&style=flat-square)](https://github.com/aliaa11/issues)
+- [ ] **Contributed to (last year):** [![Contributions](https://img.shields.io/github/commit-activity/y/aliaa11?color=orange&style=flat-square)](https://github.com/aliaa11)
 
 ---
 
